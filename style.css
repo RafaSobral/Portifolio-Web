@@ -473,7 +473,7 @@ hr{
 
   .maincontainer{
     flex-direction: column;
-    width: 250px;
+    width: 500px;
     height: auto;
     margin-left:20% ;
   }
@@ -567,10 +567,6 @@ hr{
     font-size: 15px;
   }
 
- body{
-  width: 700px;
-     height: auto;
-}
 } 
 
 
