@@ -383,7 +383,7 @@ hr{
   }
   
   
-  .foto{
+  #foto{
     width: 450px;
     height: 450px;
     margin-left: 12%;
@@ -508,7 +508,7 @@ hr{
   .conteinersobre{
     flex-direction: column;
   }
-  .foto{
+  #foto{
     width: 250px;
     height: 250px;
     margin-left: 5%;
