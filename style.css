@@ -465,9 +465,179 @@ hr{
 
 
  @media screen and (max-width: 500px) {
- 
 
-  .atag,#contato1{
+      .atag,
+  #contato1 {
+    display: none;
+  }
+
+  h1 {
+    font-size: 120px;
+  }
+
+  p {
+    font-size: 50px;
+  }
+
+  .text-container {
+    width: 900px;
+    height: auto;
+    ;
+  }
+
+  .contato2{
+    width: 600px;
+    height: 150px;
+    padding: 1%;
+  }
+
+  a{
+    font-size: 55px;
+  }
+
+
+
+  .maincontainer {
+    flex-direction: column;
+    width: 850px;
+    height: auto;
+    margin-left: 20%;
+  }
+
+  .topodosite {
+    width: 800px;
+    height: 800px;
+  }
+
+  .conteinerprojetos {
+    display: block;
+    width: 250px;
+    height: 2200px;
+    margin-left: ;
+
+  }
+
+  .projeto {
+    margin-top: 25%;
+    width: 800px;
+    height: 1080px;
+  }
+
+  .logo2{
+    width: 150px;
+    height: 200px;
+  }
+
+  h2{
+    font-size: 100px;
+  }
+
+  .projeto:hover {
+    width: 800px;
+    height: 1080px;
+  }
+
+  #titulo2{
+    margin-left: 15%;
+    margin-top: 20%;
+    font-size: 20x;
+  }
+
+  .conteinersobre {
+    flex-direction: column;
+    margin-top: 1300px;
+  }
+
+  #foto {
+    width: 800px;
+    height: 800px;
+    margin-left: 10%;
+
+  }
+
+  .titulosobre {
+    font-size:90px;
+    margin-left: 70px;
+  }
+
+  .sobre {
+
+    width: 900px;
+    height: 1800px;
+  }
+  .sobre p {
+     font-size:60px;
+  }
+
+  #titulo3 {
+    margin-left: 56%;
+  }
+
+  .conteinerform {
+
+    margin-left:8%;
+  }
+
+  input {
+    width: 950px;
+    height: 200px;
+     font-size: 70px;
+  }
+
+  textarea {
+    width: 950px;
+    height: 600px;
+     font-size: 70px;
+  }
+
+  .botaoform {
+    margin-left: 28%;
+    width: 400px;
+    height: 200px;
+
+  }
+
+  .redessociais {
+    display: none;
+  }
+
+  .conteinerfooter {
+    margin-left: 8%;
+    margin-top: 1300px;
+    width: 1000px;
+    height: 100px;
+  }
+
+  .botaofooter{
+    width: 950px;
+    height: 100px;
+  }
+
+  .botaofooter a{
+     font-size: 60px;
+  }
+
+  .botaofooter img{
+    width: 40px;
+    height: 40px;
+  }
+
+  
+
+  hr {
+    width: 1000px;
+    height: 10px;
+  }
+
+  #hquatro {
+    margin-left: 3%;
+    font-size: 24px;
+  }
+
+  
+}
+
+ /* .atag,#contato1{
     display: none;
   }
 
@@ -564,7 +734,7 @@ hr{
 
   #hquatro{
     margin-left: 3%;
-    font-size: 15px;
+    font-size: 15px;*/
   }
 
 } 
